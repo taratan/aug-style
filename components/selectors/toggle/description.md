@@ -1,0 +1,1 @@
+Use the toggle for switching between two views — e.g. Market and Limit

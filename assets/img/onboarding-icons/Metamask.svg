@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Metamask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Icon/Metamask" stroke="#FFFFFF">
+            <g id="Page-1" transform="translate(3.000000, 1.000000)">
+                <g id="Group-5" transform="translate(0.000000, 0.119498)" stroke-linecap="round">
+                    <polygon id="Stroke-1" points="13.2559733 0.391511111 18.0348622 6.23248889 26.5315733 6.23248889 40.8692622 2.51568889 36.6209067 13.6671111 38.2145511 15.2597333 37.15144 16.3218222 38.2145511 16.8533778 37.15144 17.9154667 37.6829956 19.5091111 36.2886844 22.4296 36.0893511 25.3500889 36.6209067 29.0668889 36.6209067 33.3152444 39.8071733 37.0320444 41.3997956 38.0941333 40.3377067 40.7488444 37.15144 44.4666667 31.3104622 44.4666667 17.8886844 39.8073778 4.22770667 44.4666667 0.510906667 34.9088889 5.82135111 22.6943556 3.69717333 20.5701778 5.29081778 20.0396444 2.63508444 18.4470222 4.75926222 17.9154667 2.10455111 16.3218222 3.69717333 15.7912889 3.69717333 13.1365778 6.88344 6.76404444"></polygon>
+                    <polyline id="Stroke-3" points="40.0723378 37.2978222 37.4176267 37.2978222 36.8860711 38.3599111 36.8860711 41.5461778 40.0202044 41.0667556"></polyline>
+                </g>
+                <polygon id="Stroke-6" stroke-linecap="round" points="34.2309511 26.2656933 35.29304 28.3898711 33.7004178 28.9214267"></polygon>
+                <polygon id="Stroke-7" stroke-linecap="round" points="24.1415156 26.7967378 26.2656933 29.9830044 20.4247156 28.9209156"></polygon>
+                <polyline id="Stroke-8" points="17.7695956 6.08682222 22.0179511 12.9898889 13.52124 22.5486889 5.55608444 23.0802444"></polyline>
+                <polyline id="Stroke-9" stroke-linecap="round" points="21.4866 33.1691689 36.8863778 37.9480578 17.8883778 39.9260578"></polyline>
+                <polyline id="Stroke-10" stroke-linecap="round" points="21.4866 33.1691689 15.1140667 26.7966356 13.5214444 22.54828"></polyline>
+                <polyline id="Stroke-11" stroke-linecap="round" points="36.8863778 37.9483644 28.9212222 30.5137422 27.3275778 26.2653867 22.0181556 12.9897867"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+These are the colors that are part of the Augur color palette. Use Royal purple as a brand color to accent or highlight, and we have a hue of greys and dark greys to balance them out. 

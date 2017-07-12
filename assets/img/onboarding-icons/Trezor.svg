@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Trezor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Trezor" stroke="#FFFFFF">
+            <g id="Page-1" transform="translate(8.000000, 1.000000)">
+                <path d="M27.339456,17.572368 L27.339456,12.701888 C27.339456,6.221408 22.038416,0.920368 15.557936,0.920368 C9.077456,0.920368 3.776416,6.221408 3.776416,12.701888 L3.776416,17.572368 C7.702976,17.197008 11.631376,17.000128 15.557936,17.000128 C19.484496,17.000128 23.412896,17.197008 27.339456,17.572368 Z" id="Stroke-1"></path>
+                <path d="M3.776232,17.572368 C2.823112,17.662528 1.871832,17.756368 0.920552,17.868608 L0.920552,39.001008 L15.850312,45.080368 L30.196792,39.002848 L30.196792,17.868608 C29.243672,17.756368 28.292392,17.662528 27.339272,17.572368" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

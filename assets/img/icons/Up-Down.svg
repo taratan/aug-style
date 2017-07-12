@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="21px" viewBox="0 0 10 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Up Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Up-Down" stroke="#A7A2B2">
+            <polyline id="Stroke-3" transform="translate(5.015142, 16.015142) rotate(-225.000000) translate(-5.015142, -16.015142) " points="2.17600779 13.1760078 7.85427571 13.1760078 7.85427571 18.8542757"></polyline>
+            <polyline id="Stroke-3" transform="translate(5.015142, 5.015142) scale(1, -1) rotate(-225.000000) translate(-5.015142, -5.015142) " points="2.17600779 2.17600779 7.85427571 2.17600779 7.85427571 7.85427571"></polyline>
+        </g>
+    </g>
+</svg>

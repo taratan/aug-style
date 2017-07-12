@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Checkbox off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Checkbox-off" stroke="#DBDAE1">
+            <path d="M21.32,22 L2.84,22 C2.37632,22 2,21.62368 2,21.16 L2,2.68 C2,2.21632 2.37632,1.84 2.84,1.84 L21.32,1.84 C21.78368,1.84 22.16,2.21632 22.16,2.68 L22.16,21.16 C22.16,21.62368 21.78368,22 21.32,22 Z" id="Page-1"></path>
+        </g>
+    </g>
+</svg>

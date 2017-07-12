@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/chevron right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/chevron-right" stroke="#231A3A">
+            <polyline id="Stroke-3" transform="translate(5.363961, 7.863961) scale(-1, 1) rotate(-135.000000) translate(-5.363961, -7.863961) " points="0.863961031 3.36396103 9.86396103 3.36396103 9.86396103 12.363961"></polyline>
+        </g>
+    </g>
+</svg>

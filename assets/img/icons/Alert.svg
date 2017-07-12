@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Alert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Alert">
+            <g id="Page-1" transform="translate(1.000000, 1.000000)">
+                <path d="M17.77868,1.535048 C18.31372,0.478648 19.65132,0.478648 20.18484,1.535048 L28.6102,18.189688 L37.03404,34.842808 C37.56908,35.900728 36.90028,37.223128 35.8302,37.223128 L18.98252,37.223128 L2.13484,37.223128 C1.06324,37.223128 0.39596,35.900728 0.931,34.842808 L9.35484,18.189688 L17.77868,1.535048 Z" id="Stroke-1" stroke="#FFFFFF"></path>
+                <path d="M19.603744,26.520048 L18.361904,26.520048 L18.159744,14.809968 L19.824144,14.809968 L19.603744,26.520048 Z M18.120224,31.095248 L19.843904,31.095248 L19.843904,29.173968 L18.120224,29.173968 L18.120224,31.095248 Z" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

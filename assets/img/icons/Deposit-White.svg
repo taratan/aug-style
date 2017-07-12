@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Deposit White</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Deposit-White" stroke="#FFFFFF">
+            <g id="Page-1" transform="translate(1.000000, 1.000000)">
+                <path d="M11.1195,0.4998 L11.0445,17.4018" id="Stroke-1"></path>
+                <polyline id="Stroke-3" points="6.8949 13.4144 10.9999 17.5194 15.1049 13.4144"></polyline>
+                <polyline id="Stroke-4" points="5.4999 9.0628 0.4999 9.0628 0.4999 21.0628 21.4999 21.0628 21.4999 9.0628 16.4999 9.0628"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

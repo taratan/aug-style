@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Radio button on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Radio-button-on">
+            <g id="Page-1" transform="translate(1.000000, 1.000000)">
+                <path d="M21.648,11.088 C21.648,16.91976 16.91976,21.648 11.088,21.648 C5.25624,21.648 0.528,16.91976 0.528,11.088 C0.528,5.25624 5.25624,0.528 11.088,0.528 C16.91976,0.528 21.648,5.25624 21.648,11.088 Z" id="Stroke-1" stroke="#A7A2B2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.088,18.128 C7.20016,18.128 4.048,14.97584 4.048,11.088 C4.048,7.20016 7.20016,4.048 11.088,4.048 C14.97584,4.048 18.128,7.20016 18.128,11.088 C18.128,14.97584 14.97584,18.128 11.088,18.128 Z" id="Fill-3" fill="#A7A2B2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

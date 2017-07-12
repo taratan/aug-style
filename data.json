@@ -1,0 +1,232 @@
+{
+    "project_logo": "assets/img/Augur-Mark-Inline.png",
+    "project_favicon": "/assets/img/nav-ico.svg",
+    "project_name": null,
+    "project_url": null,
+    "copyright_start_year": 2017,
+    "client_name": null,
+    "client_url": null,
+    "creators": [
+        {
+            "name": null,
+            "url": null
+        }
+    ],
+    "theme": {
+        "border_color": "#E0E6ED",
+        "highlight_color": "#F9FAFC",
+        "brand_color": "#412468",
+        "background_color": "#FFFFFF",
+        "code_highlight_theme": "github",
+        "override_code_highlight_bg": "#F9FAFC",
+        "sample_dark_background": "#231A3A",
+        "show_project_name": false,
+        "show_version": true,
+        "max_width": null,
+        "titles": {
+            "library_title": "Pattern Library",
+            "pages_title": "Overview",
+            "components_title": "Components"
+        }
+    },
+    "assets": {
+        "css": [
+            "src/css/all-styles.css"
+        ],
+        "js": []
+    },
+    "font_libraries": {
+        "typekit_code": null,
+        "typography_web_fonts": null,
+        "google_web_fonts": null
+    },
+    "content": {
+        "show_first_page_on_load": null,
+        "title": "Overview",
+        "pages": [
+            {
+                "name": "introduction",
+                "title": "Introduction",
+                "file": "./pages/intro.md"
+            }
+        ]
+    },
+    "groups": [
+        {
+            "name": "branding",
+            "title": "Brand",
+            "components": [
+                {
+                    "name": "color",
+                    "title": "Colors",
+                    "type": "colors",
+                    "colors": [
+                        "#412468",
+                        "#553580",
+                        "#231A3A",
+                        "#372E4B",
+                        "#44415A",
+                        "#736E89",
+                        "#F6F6F8",
+                        "#FFFFFF"
+                    ],
+                    "group": "branding"
+                },
+                {
+                    "group": "branding",
+                    "name": "logo",
+                    "title": "Logo",
+                    "width": "half"
+                },
+                {
+                    "group": "branding",
+                    "name": "logo-inverted",
+                    "title": "Logo: Dark",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "branding",
+                    "name": "inline-logo",
+                    "title": "Inline Logo",
+                    "width": "half"
+                },
+                {
+                    "group": "branding",
+                    "name": "inline-logo-dark",
+                    "title": "Inline Logo: Dark",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "icons",
+            "title": "Icons",
+            "components": [
+                {
+                    "group": "icons",
+                    "name": "icons",
+                    "title": "Icons",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                },
+                {
+                    "group": "icons",
+                    "name": "icons-dark",
+                    "title": "Icons: Dark",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "name": "nav-icons",
+                    "title": "Nav Icons",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    },
+                    "group": "icons"
+                }
+            ]
+        },
+        {
+            "name": "typography",
+            "title": "Typography",
+            "components": [
+                {
+                    "group": "typography",
+                    "name": "headers",
+                    "title": "Headers",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "title": "Buttons",
+            "components": [
+                {
+                    "name": "primary",
+                    "title": "Button: Primary",
+                    "width": "half",
+                    "group": "buttons"
+                },
+                {
+                    "group": "buttons",
+                    "name": "dark",
+                    "title": "Button: Dark",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "buttons",
+                    "name": "disabled",
+                    "title": "Button: Disabled",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "disabled-dark",
+                    "title": "Button: Disabled-Dark",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "selectors",
+            "title": "Selectors",
+            "components": [
+                {
+                    "group": "selectors",
+                    "name": "toggle",
+                    "title": "Toggle",
+                    "width": "half"
+                },
+                {
+                    "name": "radio-buttons",
+                    "title": "Radio Buttons",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    },
+                    "group": "selectors"
+                },
+                {
+                    "group": "selectors",
+                    "name": "tabs",
+                    "title": "Tabs"
+                },
+                {
+                    "group": "selectors",
+                    "name": "dropdown",
+                    "title": "Dropdown"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "title": "Input",
+            "components": [
+                {
+                    "group": "input",
+                    "name": "input-field",
+                    "title": "Input Fields"
+                }
+            ]
+        }
+    ],
+    "version": "1.9.5"
+}

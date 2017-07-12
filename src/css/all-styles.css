@@ -1,0 +1,142 @@
+@font-face {
+    font-family: DINPro-Medium;
+    src: url("../../assets/fonts/DINPro-Medium.woff");
+}
+
+@font-face {
+    font-family: DINPro-Regular;
+    src: url("../../assets/fonts/DINPro-Regular.woff");
+}
+
+@font-face {
+    font-family: DINPro-Light;
+    src: url("../../assets/fonts/DINPro-Light.woff");
+}
+
+@font-face {
+    font-family: DINPro-Bold;
+    src: url("../../assets/fonts/DINPro-Bold.woff");
+}
+
+body{
+	font-size: 16px;
+}
+
+.cta-xs-white{ 
+	font-family: DinPro-Medium;
+	font-size:12px;
+	color:#FFFFFF;
+	letter-spacing: 0.14rem;
+	text-transform: uppercase;
+ }
+
+.logo{
+ 	width: 100%;
+ }
+
+.icon{
+	width: 10%;
+	padding-right:8%;
+	padding-bottom: 5%;
+}
+
+
+/*GLOBAL CLASSES*/
+
+.noHover{
+	pointer-events: none;
+}
+
+
+
+
+/*BUTTONS*/
+
+
+.btn{
+	background-color: #412468;
+	border-radius: 3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	padding:18px 32px;
+	display: inline-block;
+	font-size: 18px;
+	color:#FFFFFF;
+	font-family: DINPro-Medium;
+	letter-spacing: 0.14rem;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+
+.btn:hover{
+	background-color: #553580;
+}
+
+.dark{
+	background-color: #F0EFF6;
+	color: #412468;
+}
+
+
+.dark:hover{
+	background-color: #DBDAE1;
+}
+
+.disabled{
+	background-color: #DBDAE1;
+	color: #A7A2B2;
+}
+
+.dark-disabled{
+	background-color: #A7A2B2;
+	color: #DBDAE1;
+}
+
+
+
+/*SELECTORS*/
+
+/*SELECTORS:TOGGLE*/
+input[type=radio] {
+	position: relative;
+	visibility: hidden;
+	display: none;
+	margin: -9px;
+
+}
+
+
+label .cta-xs-white {
+	color: #DBDAE1;
+	background: #A7A2B2;
+	display: inline-block;
+	cursor: pointer;
+	border-radius: 3px;
+	padding: 10px 80px;
+	/*	 
+	font-family: DinPro-Medium;
+	font-size:12px;
+	color:#FFFFFF;
+	letter-spacing: 0.14rem;
+	text-transform: uppercase;*/
+
+}
+
+input[type=radio]:checked + label{
+	color: #FFFFFF;
+	background: #412468;
+}
+
+/*SELECTORS:RADIO BUTTONS*/
+
+
+/*input[type=radio] {
+  position: relative;
+  visibility: hidden;
+  display: -webkit-inline-box;
+  overflow:hidden;
+  margin: 0px;
+  border: 0;
+}*/
+
+

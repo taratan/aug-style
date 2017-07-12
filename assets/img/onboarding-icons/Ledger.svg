@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Ledger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 40 40 40 40 0 0 0"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Ledger">
+            <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                <path d="M31.7647059,30.5882353 L31.7647059,39.4117647 L38.2352941,39.4117647 C38.8847059,39.4117647 39.4117647,38.8847059 39.4117647,38.2352941 L39.4117647,30.5882353 L31.7647059,30.5882353 Z" id="Stroke-1" stroke="#FFFFFF"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <polygon id="Stroke-3" stroke="#FFFFFF" mask="url(#mask-2)" points="17.0588235 39.4117647 24.7058824 39.4117647 24.7058824 30.5882353 17.0588235 30.5882353"></polygon>
+                <path d="M17.0588235,23.5294118 L39.4117647,23.5294118 L39.4117647,1.76470588 C39.4117647,1.11529412 38.8847059,0.588235294 38.2352941,0.588235294 L17.0588235,0.588235294 L17.0588235,23.5294118 Z" id="Stroke-5" stroke="#FFFFFF" mask="url(#mask-2)"></path>
+                <polygon id="Stroke-6" stroke="#FFFFFF" mask="url(#mask-2)" points="0.588235294 23.5294118 10 23.5294118 10 17.6470588 0.588235294 17.6470588"></polygon>
+                <path d="M10,10.5882353 L10,0.588235294 L1.76470588,0.588235294 C1.11529412,0.588235294 0.588235294,1.11529412 0.588235294,1.76470588 L0.588235294,10.5882353 L10,10.5882353 Z" id="Stroke-7" stroke="#FFFFFF" mask="url(#mask-2)"></path>
+                <path d="M10,30.5882353 L0.588235294,30.5882353 L0.588235294,38.2352941 C0.588235294,38.8847059 1.11529412,39.4117647 1.76470588,39.4117647 L10,39.4117647 L10,30.5882353 Z" id="Stroke-8" stroke="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
